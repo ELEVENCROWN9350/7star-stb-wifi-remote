@@ -4,6 +4,8 @@ This project converts a 7Star Digital Set-Top Box into a Wi-Fi controlled device
 Instead of transmitting infrared signals, the ESP32 directly injects decoded remote-control signals into the output line of the STB's IR receiver.
 The result is a fast and reliable Wi-Fi remote that can be controlled from a web browser or Android application.
 
+⚠️ This project was developed specifically for a 7Star Digital Set-Top Box.
+Signal timings and wiring may differ on other models.
 
 ## Features
 
